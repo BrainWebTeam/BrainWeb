@@ -33,18 +33,18 @@ npm run dev
 npm run build
 Project Structure
 
-```src/
+src/ ```
 ├── components/     # React components
 ├── hooks/         # Custom React hooks
 ├── pages/         # Page components
 ├── types/         # TypeScript type definitions
-└── utils/         # Utility functions```
+└── utils/         # Utility functions ```
 
 # Contact
 Website: brainweb.ai
 Twitter: @BrainWebAI
 GitHub: github.com/brainweb
 
-Acknowledgments
+# Acknowledgments
 Special thanks to all contributors and the AI/ML community for their valuable resources and insights.
 
