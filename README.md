@@ -33,12 +33,12 @@ npm run dev
 npm run build
 Project Structure
 
-src/
+```src/
 ├── components/     # React components
 ├── hooks/         # Custom React hooks
 ├── pages/         # Page components
 ├── types/         # TypeScript type definitions
-└── utils/         # Utility functions
+└── utils/         # Utility functions```
 
 # Contact
 Website: brainweb.ai
