@@ -22,7 +22,7 @@ Deployment: Netlify
 # 🚀 Quick Start
 
 # Clone repository
-git clone https://github.com/pstar77/BrainWeb
+git clone https://github.com/BrainWebTeam/BrainWeb
 
 # Install dependencies
 npm install
