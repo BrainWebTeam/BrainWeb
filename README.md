@@ -22,7 +22,7 @@ Deployment: Netlify
 # 🚀 Quick Start
 
 # Clone repository
-git clone [https://github.com/yourusername/brainweb.git](https://github.com/pstar77/BrainWeb)
+git clone https://github.com/pstar77/BrainWeb
 
 # Install dependencies
 npm install
@@ -60,6 +60,5 @@ Community contributions
 Mobile app
 API integration
 Extended content library
-                                       
-                                                                                                                                             Made with ❤️ by the BrainWeb Team
+                                                                                                                                                                   Made with ❤️ by the BrainWeb Team
 
